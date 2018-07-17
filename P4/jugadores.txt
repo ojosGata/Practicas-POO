@@ -1,0 +1,3 @@
+44XX,jugador1,,,,,,,900
+55XX,jugador2,,,,,,,1020
+66XX,66666,Alberto,Reyes Bonilla,Urb. Los Amigos, 25,Alcolea,Cordoba,España,1000
